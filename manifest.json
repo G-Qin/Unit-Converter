@@ -17,11 +17,5 @@
             "js": ["conversion.js"],
             "css": ["styles.css"]
         }
-    ],
-
-    "permissions": [
-        "activeTab",
-        "storage",
-        "scripting"
     ]
 }
